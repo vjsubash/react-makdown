@@ -1,4 +1,4 @@
-import { getWordsCount,createContext, useContext, useState } from 'react';
+import { createContext, useContext, useState } from 'react';
 
 const MarkdownContext = createContext(null);
 
